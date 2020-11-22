@@ -1,6 +1,6 @@
 # Machine-Learning-in-Finance
 
-Here I have saved the work I learnt from the theory and practice of supervised and reinforcement learning to big data problems in finance. I have learnt the various mathematical frameworks for applying machine learning in quantitative finance such as factor modeling with supervised learning and optimal investment with reinforcement learning. Neural networks are used to implement many of these mathematical frameworks in finance using real market data.
+The purpose of this course is to introduce students to the theory and practice of supervised and reinforcement learning to big data problems in finance. This course emphasizes the various mathematical frameworks for applying machine learning in quantitative finance such as factor modeling with supervised learning and optimal investment with reinforcement learning. Neural networks are used to implement many of these mathematical frameworks in finance using real market data
 
 Here are few thing I have accomplishments,
 
