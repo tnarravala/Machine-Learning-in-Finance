@@ -1,6 +1,6 @@
 # Machine-Learning-in-Finance
 
-I have taken this course under Prof. Mathew Dixon one of the pioneer in applying Deep learning in Finance.
+I have taken this course under Prof. Mathew Dixon, one of the pioneer in applying Deep learning in Finance.
 
 The purpose of this course is to introduce students to the theory and practice of supervised and reinforcement learning to big data problems in finance. This course emphasizes the various mathematical frameworks for applying machine learning in quantitative finance such as factor modeling with supervised learning and optimal investment with reinforcement learning. Neural networks are used to implement many of these mathematical frameworks in finance using real market data
 
